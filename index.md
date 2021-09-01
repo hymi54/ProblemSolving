@@ -1,5 +1,3 @@
 ---
-title: "Hello world"
+title: "코딩 문제 해결"
 ---
-
-Github page course
